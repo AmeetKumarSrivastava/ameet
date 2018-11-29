@@ -1,0 +1,8 @@
+public class amit
+{
+public static viod main (string args[])
+{
+int a=10;
+system.out.println(a);
+}
+}
